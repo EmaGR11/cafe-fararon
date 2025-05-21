@@ -9550,12 +9550,12 @@ h6,
 
 .overlay-top::before {
   top: -1px;
-  background: url(../img/overlay-top.png);
+  background: url(overlay-top.png);
 }
 
 .overlay-bottom::after {
   bottom: -1px;
-  background: url(../img/overlay-bottom.png);
+  background: url(overlay-bottom.png);
 }
 
 .carousel-caption {
